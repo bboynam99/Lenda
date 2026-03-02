@@ -11,6 +11,7 @@ Enabling users to:
 - Participate in the Aave Governance
 
 - https://www.youtube.com/watch?v=JwqfUu1XeqY
+- https://onout.org/lenda/
 
 ## How to use
 
